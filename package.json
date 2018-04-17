@@ -1,0 +1,14 @@
+{
+  "name": "projectcalvos",
+  "version": "1.0.0",
+  "description": "Test nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ProjectCalvos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
