@@ -11,3 +11,6 @@ For run the aplication:
 -   Run the command npm install in the folder where you have cloned the repository (This command create a folder with all modules)
 
 -   And in the end, run the command node index.js (in the future, i will change for npm start)
+
+
+All changes will be sent to slack
