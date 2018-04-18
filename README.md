@@ -13,4 +13,4 @@ For run the aplication:
 -   And in the end, run the command node index.js (in the future, i will change for npm start)
 
 
-All changes will be sent to slack
+All changes will be sent to slack.
