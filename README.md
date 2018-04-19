@@ -10,4 +10,14 @@ For run the aplication:
 
 -   Run the command npm install in the folder where you have cloned the repository (This command create a folder with all modules)
 
--   And in the end, run the command node index.js (in the future, i will change for npm start)
+-   And in the end, run the command npm start
+
+If the app crash, it is because of the version of your nodejs (for run websocket you need v4.5.0 or higher)
+
+So.. run the next commands:
+
+    -   curl sL http://deb.nodesource.com/setup_9.x | sudo -E bash
+
+    -   sudo apt-get install -y nodejs
+
+
